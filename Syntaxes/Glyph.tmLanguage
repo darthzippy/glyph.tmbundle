@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>glyph</string>
+	</array>
+	<key>foldingStartMarker</key>
+	<string>\b(book|frontmatter|bodymatter|backmatter|chapter|section)\b</string>
+	<key>foldingStopMarker</key>
+	<string>]</string>
+	<key>name</key>
+	<string>Glyph</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>match</key>
+			<string>\b(if|while|for|return|chapter|section|include)\b</string>
+			<key>name</key>
+			<string>keyword.control.untitled</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>[ ]*[@]{1}.*</string>
+			<key>name</key>
+			<string>string.meta</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(todo|toc)\b</string>
+			<key>name</key>
+			<string>storage.meta</string>
+		</dict>
+		<dict>
+			<key>begin</key>
+			<string>"</string>
+			<key>end</key>
+			<string>"</string>
+			<key>name</key>
+			<string>string.quoted.double.untitled</string>
+			<key>patterns</key>
+			<array>
+				<dict>
+					<key>match</key>
+					<string>\\.</string>
+					<key>name</key>
+					<string>constant.character.escape.untitled</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.Glyph</string>
+	<key>uuid</key>
+	<string>D23E17EC-8130-4234-BF5C-57720DAD7734</string>
+</dict>
+</plist>

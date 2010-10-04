@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>chapter[
+  @title[${1:Chapter Title}]
+  todo[${2:Write chapter}]
+  include[${3}]
+  ${0:content goes here}
+]</string>
+	<key>name</key>
+	<string>Chapter</string>
+	<key>scope</key>
+	<string>source.Glyph, source.Glyph keyword.control.untitled</string>
+	<key>tabTrigger</key>
+	<string>chap</string>
+	<key>uuid</key>
+	<string>9E3C2D03-26A2-4AB5-A6AE-99EB3D2965B8</string>
+</dict>
+</plist>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>  @backmatter[
+    appendix[
+      @title[Appendix A]
+      todo[Write appendix A]
+	 include[appendix_a]
+    ]
+  ]
+</string>
+	<key>name</key>
+	<string>Backmatter</string>
+	<key>scope</key>
+	<string>source.Glyph</string>
+	<key>tabTrigger</key>
+	<string>matter</string>
+	<key>uuid</key>
+	<string>21B1BD7B-1855-4156-8A85-40373787A2B7</string>
+</dict>
+</plist>

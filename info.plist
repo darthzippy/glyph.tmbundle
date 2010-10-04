@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Glyph</string>
+	<key>ordering</key>
+	<array>
+		<string>9E3C2D03-26A2-4AB5-A6AE-99EB3D2965B8</string>
+		<string>4038217E-B137-420C-ABFA-FB0063766579</string>
+		<string>ABC164E1-D41D-4C1A-8FE1-5A5E414C0D6F</string>
+		<string>3A8DCC96-25B2-4486-AAA3-72AE71882F72</string>
+		<string>36D408FE-85A8-42D5-A97C-E3B73156D002</string>
+		<string>21B1BD7B-1855-4156-8A85-40373787A2B7</string>
+		<string>D23E17EC-8130-4234-BF5C-57720DAD7734</string>
+	</array>
+	<key>uuid</key>
+	<string>72BA35D6-11DC-4714-9B50-D448CD0306BA</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>  @frontmatter[
+    toc[]
+    preface[
+      @title[Preface]
+	  todo[Write the preface]
+	  include[preface]
+    ]
+  ]
+</string>
+	<key>name</key>
+	<string>Frontmatter</string>
+	<key>scope</key>
+	<string>source.Glyph</string>
+	<key>tabTrigger</key>
+	<string>matter</string>
+	<key>uuid</key>
+	<string>3A8DCC96-25B2-4486-AAA3-72AE71882F72</string>
+</dict>
+</plist>
