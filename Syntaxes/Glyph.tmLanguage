@@ -24,11 +24,11 @@
 			<key>match</key>
 			<string>[ ]*[@]{1}.*</string>
 			<key>name</key>
-			<string>string.meta</string>
+			<string>variable.meta</string>
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(todo|toc)\b</string>
+			<string>\b(todo|toc|preface)\b</string>
 			<key>name</key>
 			<string>storage.meta</string>
 		</dict>
