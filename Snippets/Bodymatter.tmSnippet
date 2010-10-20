@@ -3,8 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>
-</string>
+	<string>@bodymatter[  
+    chapter[ 
+			@title[${1:Chapter 1}]
+			todo[${2:Write chapter 1}]
+      include[${3:chapter_1}]
+    ]
+    ${4:chapter[
+			@title[${5:Chapter 2}]
+			todo[${6:Write chapter 2}]
+      include[${7:chapter_2}]
+    ]}
+  ]</string>
 	<key>name</key>
 	<string>Bodymatter</string>
 	<key>scope</key>

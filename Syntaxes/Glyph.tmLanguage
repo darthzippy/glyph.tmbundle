@@ -7,7 +7,7 @@
 		<string>glyph</string>
 	</array>
 	<key>foldingStartMarker</key>
-	<string>\b(book|frontmatter|bodymatter|backmatter|chapter|section)\b</string>
+	<string>\b(book|frontmatter|bodymatter|backmatter|chapter|section|figure|image)\b</string>
 	<key>foldingStopMarker</key>
 	<string>]</string>
 	<key>name</key>
@@ -16,7 +16,7 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>\b(if|while|for|return|chapter|section|include)\b</string>
+			<string>\b(if|while|for|return|chapter|section|include|figure|image)\b</string>
 			<key>name</key>
 			<string>keyword.control.untitled</string>
 		</dict>

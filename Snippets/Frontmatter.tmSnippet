@@ -3,21 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>  @backmatter[
-    appendix[
-      @title[${1:Appendix A}]
-      todo[${2:Write appendix A}]
-	 include[${3:appendix_a}]
+	<string>  @frontmatter[
+    toc[]
+    preface[
+      @title[${1:Preface}]
+	  todo[${2:Write the preface}]
+	  include[${3:preface}]
     ]
   ]
 </string>
 	<key>name</key>
-	<string>Backmatter</string>
+	<string>Frontmatter</string>
 	<key>scope</key>
 	<string>source.Glyph</string>
 	<key>tabTrigger</key>
 	<string>matter</string>
 	<key>uuid</key>
-	<string>21B1BD7B-1855-4156-8A85-40373787A2B7</string>
+	<string>189E84A7-E099-4766-8B83-9C208DABD10E</string>
 </dict>
 </plist>

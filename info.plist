@@ -2,6 +2,36 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>9E3C2D03-26A2-4AB5-A6AE-99EB3D2965B8</string>
+			<string>4038217E-B137-420C-ABFA-FB0063766579</string>
+			<string>ABC164E1-D41D-4C1A-8FE1-5A5E414C0D6F</string>
+			<string>------------------------------------</string>
+			<string>FE0A77A2-D000-4D06-BB12-E9A3636D203C</string>
+			<string>------------------------------------</string>
+			<string>329C8C27-E20E-4846-B962-D3291CC5865E</string>
+			<string>9869D9D1-DC8E-4A08-9EA8-0BA424A22DC9</string>
+			<string>------------------------------------</string>
+			<string>30D220FB-356E-4982-9BB5-9BD2DB0F5B14</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>FE0A77A2-D000-4D06-BB12-E9A3636D203C</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>189E84A7-E099-4766-8B83-9C208DABD10E</string>
+					<string>36D408FE-85A8-42D5-A97C-E3B73156D002</string>
+					<string>21B1BD7B-1855-4156-8A85-40373787A2B7</string>
+				</array>
+				<key>name</key>
+				<string>Matter</string>
+			</dict>
+		</dict>
+	</dict>
 	<key>name</key>
 	<string>Glyph</string>
 	<key>ordering</key>
@@ -9,13 +39,14 @@
 		<string>9E3C2D03-26A2-4AB5-A6AE-99EB3D2965B8</string>
 		<string>4038217E-B137-420C-ABFA-FB0063766579</string>
 		<string>ABC164E1-D41D-4C1A-8FE1-5A5E414C0D6F</string>
-		<string>3A8DCC96-25B2-4486-AAA3-72AE71882F72</string>
+		<string>189E84A7-E099-4766-8B83-9C208DABD10E</string>
 		<string>36D408FE-85A8-42D5-A97C-E3B73156D002</string>
 		<string>21B1BD7B-1855-4156-8A85-40373787A2B7</string>
 		<string>D23E17EC-8130-4234-BF5C-57720DAD7734</string>
+		<string>329C8C27-E20E-4846-B962-D3291CC5865E</string>
 		<string>30D220FB-356E-4982-9BB5-9BD2DB0F5B14</string>
-		<string>4CC30811-AEF9-4107-B376-9160D1054C0A</string>
 		<string>EFC05811-EAFA-4F24-B05E-8F4556E8FD2F</string>
+		<string>9869D9D1-DC8E-4A08-9EA8-0BA424A22DC9</string>
 	</array>
 	<key>uuid</key>
 	<string>72BA35D6-11DC-4714-9B50-D448CD0306BA</string>

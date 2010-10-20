@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>image[${1:glyph.svg}
+  @width[${2:20}%]
+  @height[$2$3%]
+]</string>
+	<key>name</key>
+	<string>Image</string>
+	<key>scope</key>
+	<string>source.Glyph, source.Glyph keyword.control.untitled</string>
+	<key>tabTrigger</key>
+	<string>img</string>
+	<key>uuid</key>
+	<string>329C8C27-E20E-4846-B962-D3291CC5865E</string>
+</dict>
+</plist>
