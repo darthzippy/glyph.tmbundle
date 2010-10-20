@@ -22,9 +22,11 @@ Tab triggers are available for the following items:
 *	Frontmatter (matter→|)
 *	Bodymatter (matter→|)
 *	Backmatter (matter→|)
+*	Image (img→|)
+*	Figure (fig→|)
 
 ##Future Development
 
 Development on this bundle is just beginning. For now I've included some basic syntax highlighting and tab triggers for the most common commands.
 
-I am new to Glyph and this is the first Textmate bundle I've created from scratch, so more fetures will be added as I learn more about both.
+I am new to Glyph and this is the first Textmate bundle I've created from scratch, so more features will be added as I learn more about both. Suggestions welcome!
