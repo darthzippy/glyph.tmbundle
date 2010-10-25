@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>book[
-  $0	
+	<string>textile[
+$0
 ]</string>
 	<key>name</key>
-	<string>Book</string>
+	<string>Textile</string>
 	<key>scope</key>
 	<string>source.Glyph</string>
 	<key>tabTrigger</key>
-	<string>book</string>
+	<string>txt</string>
 	<key>uuid</key>
-	<string>ABC164E1-D41D-4C1A-8FE1-5A5E414C0D6F</string>
+	<string>29D195D3-5BF0-4C99-85DD-927B45297260</string>
 </dict>
 </plist>
